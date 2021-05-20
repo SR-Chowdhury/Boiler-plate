@@ -1,4 +1,4 @@
-# Bootstrap Boiler-plate / Starter Template v2.0
+# Bootstrap Boiler-plate / Starter Template v5.0
 
     <!doctype html>
     <html lang="en">
